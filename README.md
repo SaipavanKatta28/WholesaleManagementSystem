@@ -29,7 +29,7 @@ We began by identifying a real-world problem: **inefficient operations in wholes
 
 📄 We proposed a solution: **a centralized Wholesale Management System** that manages all entities through a relational database, backed by automation and reporting tools.
 
-📝 **Document:** `P1.Project Proposal Group 19.pdf`
+📝 **Document:** [📄 P1. Project Proposal.pdf](P1.Project.Proposal.Group.19.pdf)
 
 ---
 
@@ -43,8 +43,8 @@ Key Design Elements:
 - Use of **subtypes**, like `ActiveCustomer` and `InactiveCustomer`
 - **Associative Entities** like `OrderLine`, `DepletedProduct`, and `ProductInventory`
 
-📄 **Initial Design:** `P2.Database Design, initial ERD.pdf`  
-📄 **Final Model:** `P3.Final ERD.pdf`
+📄 **Initial Design:** [📄 P2. Database Design, Initial ERD.pdf](P2.Database.Design.Initial.ERD.pdf)   
+📄 **Final Model:** [📄 P3. Final ERD.pdf](P3.Final.ERD.pdf)
 
 ---
 
@@ -61,9 +61,9 @@ Using **Microsoft SQL Server**, we built the backend with:
 ✅ Column-level Encryption
 
 📂 SQL Files:
-- `P4_Create_Table.sql`: Schema creation
-- `P4_Insert_Query.sql`: Sample data
-- `Encryption Function Trigger Views Procedure.sql`: Logic & automation
+- [📄 Create Table SQL](P4_Create_Table.sql)
+- [📄 Insert Queries SQL](P4_Insert_Query.sql)
+- - [📄 Business Logic SQL (Encryption, Triggers, Views, Procedures)](Encryption.Function.Trigger.Views.Procedure.sql)
 
 ---
 
@@ -79,7 +79,7 @@ We developed a **PyQt5 GUI application** to allow business users to:
 - `pyodbc` for SQL Server connectivity
 - Clean UX with custom-styled input fields
 
-📂 Python File: `gui.py`
+📂 Python File: [GUI](gui.py)
 
 ---
 
