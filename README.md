@@ -95,7 +95,7 @@ To make the system truly data-driven, we built an interactive **Power BI dashboa
 
 This dashboard provides **real-time business insights**, empowering leadership to make data-informed decisions.
 
-🔗 [View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/a0a0bca9-1e41-4298-a076-2f98db0d29f2/ReportSection?experience=power-bi)
+🔗 [View Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=a0a0bca9-1e41-4298-a076-2f98db0d29f2&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)
 
 ---
 
